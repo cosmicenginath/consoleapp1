@@ -13,7 +13,7 @@ namespace ConsoleApp1
             string nombre;
             Console.Write("\nIngrese su nombre:");
             nombre = Console.ReadLine();
-            Console.WriteLine("\nHola" + "'nombre'");
+            Console.WriteLine("\nHola ''" + nombre + "''.");
             Console.ReadLine();
         }
     }
