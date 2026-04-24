@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.ejer2</StartupObject>
+    <StartupObject>ConsoleApp1.ejer</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
